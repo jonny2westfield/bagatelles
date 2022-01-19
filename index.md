@@ -1,3 +1,4 @@
+![Two Westfields](content/2westfields.png)
 
 > Do we have a soul? [Find out](content/do_we_have_a_soul.md)
 
