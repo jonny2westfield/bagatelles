@@ -1,5 +1,3 @@
-## Bagatelles
-
 
 > Do we have a soul? [Find out](content/do_we_have_a_soul.md)
 
@@ -7,4 +5,9 @@
 
 > Questions about Genesis I  [Find out](content/genesis-questions.md)
 
-> Le francais en voie de perdition ? [Découvrez](content/francais-perdition.md)
+> L'essence des sciences [Découvrez](content/sciences.md)
+
+> Le français en voie de perdition ? [Découvrez](content/francais-perdition.md)
+
+> Modeste proposition pour la sauvegarde du bétail [Découvrez](content/animaux.md)
+
