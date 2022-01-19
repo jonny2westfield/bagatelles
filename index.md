@@ -6,3 +6,5 @@
 > Was the Holy Roman Empire holy, roman or an empire at all? [Find out](content/holy_roman_empire.md)
 
 > Questions about Genesis I  [Find out](content/genesis-questions.md)
+
+> Le francais en voie de perdition ? [Découvrez](content/francais-perdition.md)
