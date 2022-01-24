@@ -1,13 +1,37 @@
-> Life is fun: [Two Westfields](content/2westfields.png)
 
-> Do we have a soul? [Find out](content/do_we_have_a_soul.md)
+## Who Are We?
+
+> [Do we have a soul?](content/do_we_have_a_soul.md)
+
+> [What is a dream?](content/what-is-a-dream.md)
+
+## History
 
 > Was the Holy Roman Empire holy, roman or an empire at all? [Find out](content/holy_roman_empire.md)
 
-> Questions about Genesis I  [Find out](content/genesis-questions.md)
+## Science
 
-> L'essence des sciences [Découvrez](content/sciences.md)
+> [L'essence des sciences](content/sciences.md)
 
-> Le français en voie de perdition ? [Découvrez](content/francais-perdition.md)
+## Religion
 
-> Modeste proposition pour la sauvegarde du bétail [Découvrez](content/animaux.md)
+> [Questions about Genesis I](content/genesis-questions.md)
+
+## Language
+
+> Bertrand Russell on [Useless Knowledge](content/russell-on-useless-knowledge.md)
+
+> [Le français en voie de perdition ?](content/francais-perdition.md)
+
+
+## Environment
+
+> Modeste proposition pour la [sauvegarde du bétail](content/animaux.md)
+
+## Bibliography
+
+> [Books to read](content/bibliography.md)
+
+## Fun
+
+> [There is more to life than philosophy.](content/2westfields.png)
