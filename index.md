@@ -1,17 +1,18 @@
 
-## Who Are We?
+## Philosophy?
 
 > [Do we have a soul?](content/do_we_have_a_soul.md)
 
 > [What is a dream?](content/what-is-a-dream.md)
 
+> [L'essence des sciences](content/sciences.md)
+
+> [Philosophy on two charts](content/two-charts.md)
+
+
 ## History
 
 > Was the Holy Roman Empire holy, roman or an empire at all? [Find out](content/holy_roman_empire.md)
-
-## Science
-
-> [L'essence des sciences](content/sciences.md)
 
 ## Religion
 
