@@ -15,11 +15,13 @@ these boxes that I can think “Ok, that was this guy in the top left corner”,
 and I have a point to start from. This one might or might not find helpful.
 
 
+
 2. There is only a vague semantic governing boxes and layout. 
 Each box contains a couple of names sharing a period, a region, or a subject. 
 Other authors would have drawn other boxes and arrows. 
 There is obviously a timeline from left to right, but it is deliberately not too accurate. 
 There is a commented colour code showing some links between the boxes (but far from all).
+
 
 
 3. There is no uniform progress. One can observe four boosts:
@@ -39,6 +41,7 @@ There is a commented colour code showing some links between the boxes (but far f
    4. New Enlightenment from 1880 till 1940: This was really the start into our age.
    
 
+
 4. There are two periods with little progress:
    1. The Romans were busy conquering the Western world but not too inventive otherwise, as far as I can see.
    2. The Middle Ages from about 450 (fire in the Alexandrian Library, murder of Hypathia, 
@@ -47,7 +50,8 @@ There is a commented colour code showing some links between the boxes (but far f
    It is called by many the Dark Age, a name contested by others pointing to Hildegard von Bingen.
    In the Dark Age progress did take place in the Arabic world where Arabic numerals were invented.
 
-   
+
+
 5. These charts show some philosophy, a little science and even less history of religion. 
 I can think of many other charts of that kind, each showing different aspects of history: politics,
 religion, arts, political systems from tyranny to democracy, warfare from daggers to atomic bombs, 
@@ -64,8 +68,7 @@ Should I ever have the time to draw other charts, I’ll let you know.
 <svg width="40" height="15">
   <rect width="50" height="15" fill="yellowgreen" />
   Sorry, your browser does not support inline SVG.
-</svg>
-Greek geometry: Euclid is outstanding; his book was used as a textbook until recently and notably by Pascal. 
+</svg> Greek geometry: Euclid is outstanding; his book was used as a textbook until recently and notably by Pascal. 
 Euclid summarizes all of Greek mathematics, including Thales and Pythagoras. It contains virtually no mistakes. 
 This is how mathematics works to this day: axiom, premise, proposition, proof. 
 This pattern would be adopted later on by Spinoza, who set out to mathematise philosophy, in vain, one must say.

@@ -1,5 +1,5 @@
 
-## Philosophy?
+## Philosophy
 
 > [Do we have a soul?](content/do_we_have_a_soul.md)
 
