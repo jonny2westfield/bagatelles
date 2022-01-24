@@ -3,7 +3,7 @@
 
 *Johannes Siedersleben, Oxford, July 2016*
 
-The following is based on my notes of a course on “Philosophy of the Soul” in 
+The following is based on my notes from a course on “Philosophy of the Soul” in 
 Oxford from 17 to 22 July 2016.
 
 ## Introductory Remarks
@@ -15,13 +15,11 @@ these boxes that I can think “Ok, that was this guy in the top left corner”,
 and I have a point to start from. This one might or might not find helpful.
 
 
-
 2. There is only a vague semantic governing boxes and layout. 
 Each box contains a couple of names sharing a period, a region, or a subject. 
 Other authors would have drawn other boxes and arrows. 
 There is obviously a timeline from left to right, but it is deliberately not too accurate. 
 There is a commented colour code showing some links between the boxes (but far from all).
-
 
 
 3. There is no uniform progress. One can observe four boosts:
@@ -40,17 +38,17 @@ There is a commented colour code showing some links between the boxes (but far f
    irrefutable calculations with no uncertainty left. This turned out to be way too optimistic. 
    4. New Enlightenment from 1880 till 1940: This was really the start into our age.
    
-
+<br>
 
 4. There are two periods with little progress:
    1. The Romans were busy conquering the Western world but not too inventive otherwise, as far as I can see.
    2. The Middle Ages from about 450 (fire in the Alexandrian Library, murder of Hypathia, 
-   the first female scientist) till the Renaissance beginning in 1453. The few notable
+   the first female scientist) to the Renaissance beginning in 1453. The few notable
    contributions of this time include Aquinas’ Scholasticism, a very debatable set of ideas. 
    It is called by many the Dark Age, a name contested by others pointing to Hildegard von Bingen.
    In the Dark Age progress did take place in the Arabic world where Arabic numerals were invented.
 
-
+<br>
 
 5. These charts show some philosophy, a little science and even less history of religion. 
 I can think of many other charts of that kind, each showing different aspects of history: politics,
@@ -68,12 +66,12 @@ Should I ever have the time to draw other charts, I’ll let you know.
 <svg width="40" height="15">
   <rect width="50" height="15" fill="yellowgreen" />
   Sorry, your browser does not support inline SVG.
-</svg> Greek geometry: Euclid is outstanding; his book was used as a textbook until recently and notably by Pascal. 
+</svg> 
+Greek geometry: Euclid is outstanding; his book was used as a textbook until recently and notably by Pascal. 
 Euclid summarizes all of Greek mathematics, including Thales and Pythagoras. It contains virtually no mistakes. 
 This is how mathematics works to this day: axiom, premise, proposition, proof. 
 This pattern would be adopted later on by Spinoza, who set out to mathematise philosophy, in vain, one must say.
 
-<br> <br>
 <svg width="40" height="15">
   <rect width="50" height="15" fill="skyblue" />
   Sorry, your browser does not support inline SVG.
@@ -82,7 +80,6 @@ Stoicism, founded by Zeno: “Do not ask things to happen as you want,
 but wish that things happen as they do and you will be happy.“ 
 This bizarre philosophy was taken up by the Roman Stoics: Seneca, Epictetus, Marc Aurel.
 
-<br> <br>
 <svg width="40" height="15">
   <rect width="50" height="15" fill="lightsalmon" />
   Sorry, your browser does not support inline SVG.
@@ -92,18 +89,18 @@ Epicure carried further the work of Democritus who had invented a theory of atom
 Epicure is known only through Lucretius, whose work De Rerum Natura was banned; 
 only one copy survived the Middle Age. Nice book: “The Swerve” by Stephen Greenblatt.
 
-<br> <br>
 <svg width="40" height="15">
   <rect width="50" height="15" fill="lightgrey" />
   Sorry, your browser does not support inline SVG.
 </svg>
-This is the Socrates/Plato/Aristotle story. Note that Aristotle’s physics was wrong, and his logic incomplete and faulty. 
-His influence however was huge: Aquinas’s foundation of Christian faith was based on Aristotle, 
-and so was Kant’s Critique of Pure Reason. Note that logic was completely reinvented later on by Frege, Russell and others. 
-It was not before the end of the 20th century that the Catholic Church allowed amendments or alterations of Aristotelian Logic. 
-Plotinus is mentioned as the most important Neo-Platonian.
+This is the Socrates/Plato/Aristotle story. Note that Aristotle’s physics was wrong, 
+and his logic incomplete and faulty. His influence however was huge: Aquinas’s foundation 
+of Christian faith was based on Aristotle, and so was Kant’s Critique of Pure Reason. 
+Note that logic was completely reinvented later on by Frege, Russell and others. 
+It was not before the end of the 20th century that the Catholic Church allowed 
+amendments or alterations of Aristotelian Logic. Plotinus is mentioned as the most 
+important Neo-Platonic.
 
-<br> <br>
 <svg width="40" height="15">
   <rect width="50" height="15" fill="gold" />
   Sorry, your browser does not support inline SVG.
@@ -112,7 +109,6 @@ The earth is not the centre of the world. Copernicus was the first to formulate 
 Kepler proved it based on Brahe’s records, Galileo refined it and Newton set a temporal
 endpoint with his gravitation theory.
 
-<br> <br>
 <svg width="40" height="15">
   <rect width="50" height="15" fill="peru" />
   Sorry, your browser does not support inline SVG.
@@ -124,7 +120,6 @@ Luther, a completely unknown monk, brought about what can be called the most imp
 His marvellous translation of the Bible was the first to be distributed on a large scale and it forged the 
 German language very much like Shakespeare did the English one.
 
-<br> <br>
 <svg width="40" height="15">
   <rect width="50" height="15" fill="lightcyan" />
   Sorry, your browser does not support inline SVG.
@@ -146,7 +141,7 @@ The English Enlightenment was born from Newton’s results and facilitated
 by the Glorious Revolution in 1688. Hume is an extreme Sceptic: there is only perception, no reality.
 The laws of nature are just repeated observations, how do you know if the sun will be rising tomorrow morning?
 
-<br> <br>
+<br>
 <svg width="40" height="15">
   <rect width="50" height="15" fill="lightsalmon" />
   Sorry, your browser does not support inline SVG.
@@ -164,7 +159,7 @@ Russell. This line leads later on to the Logical Positivists,
 heavily blamed e.g. by Popper for their verification principle.
 
 
-<br> <br>
+<br>
 <svg width="40" height="15">
   <rect width="50" height="15" fill="yellowgreen" />
   Sorry, your browser does not support inline SVG.
@@ -175,7 +170,7 @@ didn’t like each other. It is probably on purpose that they are resting
 one opposite the other in the Pantheon in Paris.
 
 
-<br> <br>
+<br>
 <svg width="40" height="15">
   <rect width="50" height="15" fill="grey" />
   Sorry, your browser does not support inline SVG.
@@ -183,7 +178,7 @@ one opposite the other in the Pantheon in Paris.
 This is European physics around 1900: an incredible boost of inventions 
 that have changed the world: relativity, quantum mechanics, radioactivity, and many more.
 
-<br> <br>
+<br>
 <svg width="40" height="15">
   <rect width="50" height="15" fill="lemonchiffon" />
   Sorry, your browser does not support inline SVG.
