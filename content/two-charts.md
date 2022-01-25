@@ -8,21 +8,21 @@ Oxford from 17 to 22 July 2016.
 
 ## Introductory Remarks
 
-1. The question is: what will I remember in one year ot later? 
+I. The question is: what will I remember in one year ot later? 
 There is no way to remember a hundred names and as many ideas. 
 The two charts below represent a structure which I can memorize. It is along
 these boxes that I can think “Ok, that was this guy in the top left corner”, 
 and I have a point to start from. This one might or might not find helpful.
 
 
-2. There is only a vague semantic governing boxes and layout. 
+II. There is only a vague semantic governing boxes and layout. 
 Each box contains a couple of names sharing a period, a region, or a subject. 
 Other authors would have drawn other boxes and arrows. 
 There is obviously a timeline from left to right, but it is deliberately not too accurate. 
 There is a commented colour code showing some links between the boxes (but far from all).
 
 
-3. There is no uniform progress. One can observe four boosts:
+III. There is no uniform progress. One can observe four boosts:
    1. 500 – 300 BC simultaneously in Greece, China and India. 
    2. Renaissance from 1453 till 1600 facilitated by many events: fall of Constantinople 
    and scholars fleeing Turkey and arriving in Europe with their books; the printing machine, 
@@ -40,7 +40,7 @@ There is a commented colour code showing some links between the boxes (but far f
    
 <br>
 
-4. There are two periods with little progress:
+IV. There are two periods with little progress:
    1. The Romans were busy conquering the Western world but not too inventive otherwise, as far as I can see.
    2. The Middle Ages from about 450 (fire in the Alexandrian Library, murder of Hypathia, 
    the first female scientist) to the Renaissance beginning in 1453. The few notable
@@ -50,13 +50,14 @@ There is a commented colour code showing some links between the boxes (but far f
 
 <br>
 
-5. These charts show some philosophy, a little science and even less history of religion. 
+V. These charts show some philosophy, a little science and even less history of religion. 
 I can think of many other charts of that kind, each showing different aspects of history: politics,
 religion, arts, political systems from tyranny to democracy, warfare from daggers to atomic bombs, 
 logic and mathematics and so on. Bill Bryson’s marvellous book “At Home” describes
 another thread: how our civilisation has evolved, including the digging of canals and the use of toilet paper. 
 Should I ever have the time to draw other charts, I’ll let you know.
 
+<br>
 ## Chart One: From 500 BCE to 1700 CE
 
 ![chart1](philo-chart1.png)
@@ -127,6 +128,7 @@ German language very much like Shakespeare did the English one.
 Plato wrote the <em>Republic</em>, More <em>Utopia</em> and Hobbes <em>Leviathan</em>, 
 three visions of future societies no one would like to live in.
 
+<br>
 ## Chart Two: From 1700 CE to 1950 CE
 
 ![chart1](philo-chart2.png)
